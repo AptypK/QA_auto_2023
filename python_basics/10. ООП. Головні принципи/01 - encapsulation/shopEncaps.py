@@ -6,6 +6,7 @@
 # Modul 10. OOP. Main principles
 # Dev: Artur Kychenko
 # Date: 24.05.2023
+
 class ShopWorker:
     _count_workers = 0
 
